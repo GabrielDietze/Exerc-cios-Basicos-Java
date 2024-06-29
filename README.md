@@ -1,4 +1,4 @@
-# Exercícios Básicos de Java
+# Exercícios Java
 
 Este repositório contém uma coleção de exercícios básicos em Java focados em conceitos essenciais da linguagem, incluindo herança, polimorfismo, construtores, destrutores, sobrecarga, sobrescrita, interfaces e outros.
 
